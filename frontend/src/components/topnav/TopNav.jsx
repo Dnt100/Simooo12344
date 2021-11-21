@@ -10,13 +10,10 @@ import ThemeMenu from '../thememenu/ThemeMenu'
 
 import notifications from '../../assets/JsonData/notification.json'
 
-import user_image from '../../assets/images/tuat.png'
-
 import user_menu from '../../assets/JsonData/user_menus.json'
 
 const curr_user = {
-    display_name: 'Tuat Tran',
-    image: user_image
+    display_name: 'Simo Raouf',
 }
 
 const renderNotificationItem = (item, index) => (
