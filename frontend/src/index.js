@@ -8,7 +8,7 @@ import './assets/css/index.css'
 
 import Layout from './components/layout/Layout'
 
-document.title = "Simo Raouf"
+document.title = "Legends Board"
 
 ReactDOM.render(
     <React.StrictMode>
